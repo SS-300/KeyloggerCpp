@@ -1,2 +1,0 @@
-# KeyloggerCpp
-Senior Project Code
